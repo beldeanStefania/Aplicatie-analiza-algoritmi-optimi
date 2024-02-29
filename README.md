@@ -1,4 +1,5 @@
-# StructuriDeDate-LAB1
+# Aplicatie-analiza timp de executie
+
 O problemă simplă de algoritmică cu implementare in python care vizează problema de căutăre și de sortare. 
 
 1. implementare
